@@ -3,3 +3,6 @@
 - created our GitHub project repository
 - found our data
 - each pulled the data and commited a working file to our joint repository
+- [NYC Housing Preservation & Development]
+- https://www.nyc.gov/site/hpd/about/open-data.page
+- [Housing and Development (Housing Maintenance Code Violations)]
