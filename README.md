@@ -1,5 +1,5 @@
-Week 4 Day 4
-worked as partners to identify our project
-created our GitHub project repository
-found our data
-each pulled the data and commited a working file to our joint repository
+- Week 4 Day 4 
+- worked as partners to identify our project
+- created our GitHub project repository
+- found our data
+- each pulled the data and commited a working file to our joint repository
