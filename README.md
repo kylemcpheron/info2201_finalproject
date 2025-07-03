@@ -1,4 +1,4 @@
-- Week 4 Day 4 
+- WEEK 4 DAY 4 
 - worked as partners to identify our project
 - created our GitHub project repository
 - found our data
@@ -8,7 +8,7 @@
 - [Housing and Development (Housing Maintenance Code Violations)]
   
 
-- Week 5 Day 4
+- WEEK 5 DAY 4
 - CLEAN AND SAVE DATA
 - we looked at our NY housing violations data to identify which columns we would/might need for our project
 - we identified which years we are going to use for our comparisons (2019[pre Covid], 2021[post Covid], 2024[current])
