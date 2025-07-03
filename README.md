@@ -6,6 +6,7 @@
 - [NYC Housing Preservation & Development]
 - https://www.nyc.gov/site/hpd/about/open-data.page
 - [Housing and Development (Housing Maintenance Code Violations)]
+  
 
 - Week 5 Day 4
 - CLEAN AND SAVE DATA
@@ -58,7 +59,7 @@ Department of Housing Preservation and Development (HPD)
 - What will your outcome be through working with this data? ~ to complete a valid data collection that we can comprise to create visual comparisons of attribute features
   
 - PREPERATION
-- WILL ANSWER THESE QUESTIONS
+- WILL ANSWER THESE QUESTIONS AS WE WORK THROUGH OUR PROJECT
 - How do you verify the data?
 - How do you manage missing data?
 - How do you normalize?
