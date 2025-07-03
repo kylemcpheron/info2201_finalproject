@@ -29,7 +29,7 @@
 - PURPOSE AND INTENTION
 - What am I going to do with this data? ~ we plan to visually compare data that can answer some or all of these initial questions - a spatial comparison of violations in the city, compare pre and post Covid conditions, identify areas that have violation anomalies, identify which violations are most common, what type of building structures have the most violations, and current status metrics.
 - Who is going to see it? ~ this project will be completed for this class and instructor
-- What is my goal with sharing and using this data? our goal is to complete an interseting project that will provide practice for new coding skills
+- What is my goal with sharing and using this data? ~ our goal is to complete an interseting project that will provide practice for new coding skills
 - What will I gain from it? ~ new skillsets
 - Will it affect the people whose data this is? ~ it could if we published our conclusions but our project is not ethically compromised as we have eliminated personal address data 
   
@@ -43,7 +43,7 @@ Department of Housing Preservation and Development (HPD)
   
 - PRIVACY
 - Will you be able to identify people through this data? ~ you could identify addresses but we have eliminated those columns for our data sets
-- Who will have access to the anonymized data? ` it is open data
+- Who will have access to the anonymized data? ~ it is open data
 - How will I anonymize the data? ~ by removing identifying factors
   
 - ESTABLISHING CRITERIA
