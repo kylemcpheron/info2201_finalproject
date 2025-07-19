@@ -57,10 +57,3 @@ Department of Housing Preservation and Development (HPD)
   
 - OUTCOMES
 - What will your outcome be through working with this data? ~ to complete a valid data collection that we can comprise to create visual comparisons of attribute features
-  
-- PREPERATION
-- WILL ANSWER THESE QUESTIONS AS WE WORK THROUGH OUR PROJECT
-- How do you verify the data?
-- How do you manage missing data?
-- How do you normalize?
-- Are there repercussions to normalization?
