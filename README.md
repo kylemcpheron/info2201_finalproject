@@ -96,25 +96,3 @@ To complete each weekly task, which will progress our project naturally
 #### What will your outcome be through working with this data? 
 
 To complete a valid data collection that we can comprise to create visual comparisons of attribute features
-
-## Journal
-
-#### WEEK 4 DAY 4 
-- worked as partners to identify our project
-- created our GitHub project repository
-- found our data
-- each pulled the data and commited a working file to our joint repository
-- [NYC Housing Preservation & Development]
-- https://www.nyc.gov/site/hpd/about/open-data.page
-- [Housing and Development (Housing Maintenance Code Violations)]
-  
-
-#### WEEK 5 DAY 4
-- CLEAN AND SAVE DATA
-- we looked at our NY housing violations data to identify which columns we would/might need for our project
-- we identified which years we are going to use for our comparisons (2019[pre Covid], 2021[post Covid], 2024[current])
-- within the NYC Housing Preservation & Development website dataset we downloaded our cleaned/selected data
-- our cleaning excluded 30 columns of data including the columns that were unethical to use for our project. These columns included detailed address information which were not pertinant to our project. They also included data that was not necessary for our comparison.
-- our cleaning identified 10 columns that could be useful information such as violation types (id #), building id (what type of building), borough and borough id    (where the violations occured in the city), the approve date, the class (seriousness of the violation), current status.
-- we downloaded each seperate year and put them into a data file.
-- the file was too big for GitHub our solution was to compress the file then push the compressed file to GitHub so that we could both access it for coding (this worked). This data must be uncompressed within our code for use.  
